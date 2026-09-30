@@ -1,5 +1,6 @@
 # Packages we need
 library(psych)
+library(ggplot2)
 #-----
 # Import the data
 #-----
